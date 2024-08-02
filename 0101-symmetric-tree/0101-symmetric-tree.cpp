@@ -12,13 +12,9 @@
 class Solution {
 public:
     bool solve(TreeNode* p, TreeNode* q){
-        if(p == NULL || q == NULL){
-            if(p == NULL && q == NULL) return true;
-            else return false;
-        }
-        return (p->val == q->val) && solve(p->left, q->right) 
-        && solve(p->right, q->left);
-
+        if(p == NULL && q == NULL) return true;
+        if(p && q) return (p->val == q->val) && solve(p->left, q->right) && solve(p->right, q->left);
+        return false;
     }
     bool isSymmetric(TreeNode* root) {
         return solve(root, root);
