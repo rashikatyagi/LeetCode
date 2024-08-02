@@ -19,8 +19,8 @@ public:
         && solve(root->right, root->val, upperBound));
     }
     bool isValidBST(TreeNode* root) {
-        long long int lowerBound = -2147483658;
-        long long int upperBound = 2147483657;
+        long long int lowerBound = -2147483649;
+        long long int upperBound = 2147483648;
         return solve(root, lowerBound, upperBound);
     }
 };
