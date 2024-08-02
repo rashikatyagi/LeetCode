@@ -8,6 +8,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -15,6 +16,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -22,12 +24,14 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
