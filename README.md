@@ -37,6 +37,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
