@@ -56,6 +56,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -76,6 +77,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sliding Window
@@ -85,5 +87,6 @@ https://leetcode.com/u/rashikatyagi/
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
