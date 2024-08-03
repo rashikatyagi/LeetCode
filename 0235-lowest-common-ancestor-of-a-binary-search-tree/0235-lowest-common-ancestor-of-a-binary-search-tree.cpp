@@ -10,14 +10,29 @@
 
 class Solution {
 public:
+    //This only works when condition is given that both p and q always exist in bst
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        // base case
         if(root == NULL) return NULL;
-        if(root == p || root == q) return root;
-        TreeNode* ans_left = lowestCommonAncestor(root->left, p, q);
-        TreeNode* ans_right = lowestCommonAncestor(root->right, p, q);
-        if(ans_left && ans_right) return root;
-        if(!ans_left && !ans_right) return NULL;
-        if(ans_left) return ans_left;
-        else return ans_right;
+
+        //CASE 1 both p and q are smaller than current node-> answer will be in left node
+        if(p->val < root->val && q->val < root->val){
+            return lowestCommonAncestor(root->left, p, q);
+        }
+        //CASE 2 both p and q are larger than current node-> answer will be in right node
+        if(p->val > root->val && q->val > root->val){
+            return lowestCommonAncestor(root->right, p, q);
+        }
+
+        // p - smaller and q - larger than current node element
+        if(p->val < root->val && q->val > root->val){
+            return root;
+        }
+
+        // p - larger and q - smaller than current node element
+        if(p->val > root->val && q->val < root->val){
+            return root;
+        }
+        return root;
     }
 };
