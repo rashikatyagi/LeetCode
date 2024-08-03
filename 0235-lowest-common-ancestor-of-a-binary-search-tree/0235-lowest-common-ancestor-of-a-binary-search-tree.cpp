@@ -24,15 +24,7 @@ public:
             return lowestCommonAncestor(root->right, p, q);
         }
 
-        // p - smaller and q - larger than current node element
-        if(p->val < root->val && q->val > root->val){
-            return root;
-        }
-
-        // p - larger and q - smaller than current node element
-        if(p->val > root->val && q->val < root->val){
-            return root;
-        }
+        // p - smaller and q - larger or p - larger and q - smaller than current node element
         return root;
     }
 };
