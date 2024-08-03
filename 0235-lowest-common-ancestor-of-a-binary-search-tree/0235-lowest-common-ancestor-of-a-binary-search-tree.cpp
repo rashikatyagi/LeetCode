@@ -13,7 +13,7 @@ public:
     //This only works when condition is given that both p and q always exist in bst
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         // base case
-        if(root == NULL) return NULL;
+        //if(root == NULL) return NULL;
 
         //CASE 1 both p and q are smaller than current node-> answer will be in left node
         if(p->val < root->val && q->val < root->val){
