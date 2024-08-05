@@ -12,21 +12,17 @@
 class Solution {
 public:
     bool check(TreeNode* root, TreeNode* subroot){
-        if(root == NULL && subroot == NULL) return true;
+        if(!root && !subroot) return true;
         else if(!root || !subroot) return false;
         if(root->val != subroot->val) return false;
-        bool left = check(root->left, subroot->left);
-        bool right = check(root->right, subroot->right);
-        return left && right;
+        return check(root->left, subroot->left) && check(root->right, subroot->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subroot) {
-        if(root == NULL) return false;
-        if(root->val == subroot->val){
-            bool ans = check(root, subroot);
-            if(ans) return ans; 
+        if(!root) return false;
+        if(!subroot) return true;
+        if(check(root, subroot)){
+            return true; 
         }
-        bool ans1 = isSubtree(root->left, subroot);
-        bool ans2 = isSubtree(root->right, subroot);
-        return ans1 || ans2;
+        return isSubtree(root->left, subroot) || isSubtree(root->right, subroot);
     }
 };
