@@ -11,6 +11,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0100-same-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rashikatyagi/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -46,6 +47,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0100-same-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rashikatyagi/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -70,6 +72,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
@@ -81,6 +84,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rashikatyagi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -149,4 +153,8 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
