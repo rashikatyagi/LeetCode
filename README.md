@@ -21,6 +21,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0572-subtree-of-another-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
@@ -39,6 +40,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0572-subtree-of-another-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -59,6 +61,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0572-subtree-of-another-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
