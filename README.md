@@ -100,6 +100,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
@@ -181,4 +182,12 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
