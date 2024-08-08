@@ -11,14 +11,14 @@ public:
                 sc++;
                 if(sr >= 0 && sr < rows && sc >= 0 && sc < cols){
                     ans.push_back({sr, sc});
-                    count++;
+                    if(++count == total) return ans;
                 }
             }
             for(int i = 1 ; count < total && i <= it ; i++){
                 sr++;
                 if(sr >= 0 && sr < rows && sc >= 0 && sc < cols){
                     ans.push_back({sr, sc});
-                    count++;
+                    if(++count == total) return ans;
                 }
             }
             it++;
@@ -26,14 +26,14 @@ public:
                 sc--;
                 if(sr >= 0 && sr < rows && sc >= 0 && sc < cols){
                     ans.push_back({sr, sc});
-                    count++;
+                    if(++count == total) return ans;
                 }
             }
             for(int i = 1; count < total && i <= it ; i++){
                 sr--;
                 if(sr >= 0 && sr < rows && sc >= 0 && sc < cols){
                     ans.push_back({sr, sc});
-                    count++;
+                    if(++count == total) return ans;
                 }
             }
             it++;
