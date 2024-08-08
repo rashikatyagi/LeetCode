@@ -17,6 +17,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -64,6 +65,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -95,6 +97,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rashikatyagi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0450-delete-node-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rashikatyagi/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
