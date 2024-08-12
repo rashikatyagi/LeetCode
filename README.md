@@ -29,6 +29,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rashikatyagi/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -81,6 +82,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rashikatyagi/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -95,6 +97,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0617-merge-two-binary-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rashikatyagi/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
