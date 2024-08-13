@@ -121,6 +121,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -242,4 +243,8 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
