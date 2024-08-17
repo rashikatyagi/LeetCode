@@ -215,6 +215,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Recursion
 |  |
@@ -246,6 +247,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -255,4 +257,12 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
