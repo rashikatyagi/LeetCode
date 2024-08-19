@@ -31,20 +31,26 @@ public:
                 pq.push(temp);
             }
         }
-        int i = 0;
-        while(i < s.length()){
-            if(pq.size() == 1 && pq.top().count > 1) return "";
-            Info temp1 = pq.top();
+        string ans;
+        while(pq.size() > 1){
+            Info first = pq.top();
             pq.pop();
-            s[i++] = temp1.val;
-            temp1.count--;
-            Info temp2 = pq.top();
+            Info second = pq.top();
             pq.pop();
-            s[i++] = temp2.val;
-            temp2.count--;
-            if(temp1.count > 0) pq.push(temp1);
-            if(temp2.count > 0) pq.push(temp2);
+            ans.push_back(first.val);
+            ans.push_back(second.val);
+            first.count--;
+            second.count--;
+            if(first.count > 0) pq.push(first);
+            if(second.count > 0) pq.push(second);
         }
-        return s;
+        //handling single element in pq case
+        if(pq.size() == 1){
+            Info first = pq.top();
+            ans.push_back(first.val);
+            first.count--;
+            if(first.count > 0) return "";
+        }
+        return ans;
     }
 };
