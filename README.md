@@ -160,6 +160,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -236,6 +237,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -251,6 +253,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
 | ------- |
@@ -287,4 +290,8 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
