@@ -11,20 +11,22 @@
  */
 class Solution {
 public:
+    void countNode(TreeNode* &root, int &count){
+        if(root == NULL) return;
+        count++;
+        countNode(root->left, count);
+        countNode(root->right, count);
+    }
+    bool IsCBT(TreeNode* &root, int i, int n){
+        if(root==NULL) return true;
+        if(i>=n) return false;
+        bool left=IsCBT(root->left,2*i+1,n);
+        bool right=IsCBT(root->right,2*i+2,n);
+        return (left && right);
+    }
     bool isCompleteTree(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        bool flag = false;
-        while(!q.empty()){
-            TreeNode* temp = q.front();
-            q.pop();
-            if(!temp) flag = true;
-            else{
-                if(flag) return false;
-                q.push(temp->left);
-                q.push(temp->right);
-            }
-        }
-        return true;
+        int n = 0;
+        countNode(root, n);
+        return IsCBT(root, 0, n);
     }
 };
