@@ -11,10 +11,10 @@ public:
             int s2 = pq.top();
             pq.pop();
             if(s1 != s2){
-                pq.push(abs(s1 - s2));
+                pq.push(s1 - s2);
             }
         }
-        if(pq.empty()) return 0;
+        if(pq.size() == 0) return 0;
         return pq.top();
     }
 };
