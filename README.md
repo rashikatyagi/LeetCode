@@ -140,6 +140,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/rashikatyagi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -273,6 +274,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Data Stream
 |  |
