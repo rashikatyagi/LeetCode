@@ -26,26 +26,39 @@ public:
     //     dp[index] =  max(ans1, ans2);
     //     return dp[index]; 
     // }
-    int robUsingTab(vector<int> &nums, int n){
-        //Step 1 create dp array
-        vector<int> dp(n, -1);
-        //Step 2 manually insert data
-        dp[n - 1] = nums[n - 1];
+    // int robUsingTab(vector<int> &nums, int n){
+    //     //Step 1 create dp array
+    //     vector<int> dp(n, -1);
+    //     //Step 2 manually insert data
+    //     dp[n - 1] = nums[n - 1];
+    //     //Step 3 using logic of memoization method, iteratively solve
+    //     for(int i = n - 2 ; i >= 0 ; i--){
+    //         int temp = 0;
+    //         if(i + 2 < n)
+    //             temp = dp[i + 2];
+    //         //chori ki
+    //         int ans1 = nums[i] + temp;
+
+    //         //chori nahi ki
+    //         int ans2 = dp[i + 1];
+    //         dp[i] = max(ans1, ans2);
+    //     } 
+    //     return dp[0];
+    // }
+    int robUsingTabSO(vector<int> &nums, int n){
+        int prev = nums[n - 1];
+        int next = 0;
+        int curr;
         //Step 3 using logic of memoization method, iteratively solve
         for(int i = n - 2 ; i >= 0 ; i--){
-            int temp = 0;
-            if(i + 2 < n)
-                temp = dp[i + 2];
-            //chori ki
-            int ans1 = nums[i] + temp;
-
-            //chori nahi ki
-            int ans2 = dp[i + 1];
-            dp[i] = max(ans1, ans2);
+            curr = max(nums[i] + next, prev);
+            next = prev;
+            prev = curr;
         } 
-        return dp[0];
+        //not returning curr, to tackle the single element case
+        return prev;
     }
     int rob(vector<int>& nums) {
-        return robUsingTab(nums, nums.size());
+        return robUsingTabSO(nums, nums.size());
     }
 };
