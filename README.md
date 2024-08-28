@@ -139,6 +139,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0322-coin-change](https://github.com/rashikatyagi/LeetCode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -156,6 +157,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
@@ -182,6 +184,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -224,6 +227,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -239,6 +243,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -287,6 +292,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
