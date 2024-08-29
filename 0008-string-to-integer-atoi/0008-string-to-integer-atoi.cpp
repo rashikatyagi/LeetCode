@@ -14,6 +14,9 @@ public:
             index++;
         }
 
+        //remove leading zeros
+        while(index < n && s[index] == '0') index++;
+
         //create the number
         int number = 0;
         while((index) < n && s[index] >= '0' && s[index] <= '9'){
