@@ -146,6 +146,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/rashikatyagi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
+| [1306-minimum-absolute-difference](https://github.com/rashikatyagi/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -189,6 +190,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/rashikatyagi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/rashikatyagi/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
