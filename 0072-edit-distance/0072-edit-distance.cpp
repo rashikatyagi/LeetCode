@@ -48,8 +48,36 @@ public:
         }
         return dp[i][j];
     }
+    int minDistanceTab(string &word1, string &word2) {
+        int n1 = word1.size();
+        int n2 = word2.size();
+        vector<vector<int>> dp(n1 + 1, vector<int>(n2 + 1, 0));
+        
+        //manually adding base case
+        for(int i = 0 ; i < n1 ; i++){
+            dp[i][n2] = n1 - i;
+        }
+        for(int j = 0 ; j < n2 ; j++){
+            dp[n1][j] = n2 - j;
+        }
+
+        for(int i = n1 - 1 ; i >= 0 ; i--){
+            for(int j = n2 - 1 ; j >= 0 ; j--){
+                if(word1[i] == word2[j]){
+                    dp[i][j] = dp[i + 1][j + 1];
+                }
+                else{
+                    int replace = 1 + dp[i + 1][j + 1];
+                    int insertion = 1 + dp[i][j + 1];
+                    int deletion = 1 + dp[i + 1][j];
+                    dp[i][j] = min(replace, min(insertion, deletion));
+                }
+            }
+        }
+        return dp[0][0];
+    }
     int minDistance(string word1, string word2) {
-        vector<vector<int>> dp(word1.size(), vector<int>(word2.size(), -1));
-        return minDistanceMem(word1, word2, 0, 0, dp);
+        // vector<vector<int>> dp(word1.size(), vector<int>(word2.size(), -1));
+        return minDistanceTab(word1, word2);
     }
 };
