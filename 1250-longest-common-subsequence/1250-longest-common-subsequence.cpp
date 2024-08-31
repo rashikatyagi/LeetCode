@@ -39,25 +39,45 @@ public:
     //     dp[i][j] = ans;
     //     return ans;
     // }
-    int longestCommonSubsequenceTab(string text1, string text2) {
+    // int longestCommonSubsequenceTab(string text1, string text2) {
+    //     int n = text1.length();
+    //     int m = text2.length();
+    //     vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        
+    //     for(int i = n - 1 ; i >= 0 ; i--){
+    //         for(int j = m - 1 ; j >= 0 ; j--){
+    //             if(text1[i] == text2[j]){
+    //                 dp[i][j] = 1 + dp[i + 1][j + 1];
+    //             }
+    //             else{
+    //                 dp[i][j] = max(dp[i][j + 1], dp[i + 1][j]);
+    //             }
+    //         }
+    //     }
+    //     return dp[0][0];
+    // }
+    int longestCommonSubsequenceTabSO(string text1, string text2) {
         int n = text1.length();
         int m = text2.length();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        vector<int> next(n + 1, 0);
+        vector<int> curr(n + 1, 0);
         
-        for(int i = n - 1 ; i >= 0 ; i--){
-            for(int j = m - 1 ; j >= 0 ; j--){
+        for(int j = m - 1 ; j >= 0 ; j--){
+            for(int i = n - 1 ; i >= 0 ; i--){
                 if(text1[i] == text2[j]){
-                    dp[i][j] = 1 + dp[i + 1][j + 1];
+                    curr[i] = 1 + next[i + 1];
                 }
                 else{
-                    dp[i][j] = max(dp[i][j + 1], dp[i + 1][j]);
+                    curr[i] = max(curr[i + 1], next[i]);
                 }
             }
+            //updation
+            next = curr;
         }
-        return dp[0][0];
+        return curr[0];
     }
     int longestCommonSubsequence(string text1, string text2) {
-        int ans = longestCommonSubsequenceTab(text1, text2);
+        int ans = longestCommonSubsequenceTabSO(text1, text2);
         return ans;
     }
 };
