@@ -21,7 +21,7 @@ public:
     //         return min(replace, min(deletion, insertion));
     //     }
     // }
-    int minDistanceMem(string word1, string word2, int i, int j, vector<vector<int> > &dp) {
+    int minDistanceMem(string &word1, string &word2, int i, int j, vector<vector<int> > &dp) {
         // base case
         //in this function we are returning the number of operations
         if(i == word1.length()){   //case if word1 is smaller than word2
