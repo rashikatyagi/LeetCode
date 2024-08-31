@@ -222,6 +222,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rashikatyagi/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -282,6 +283,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/rashikatyagi/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/rashikatyagi/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0392-is-subsequence) |
