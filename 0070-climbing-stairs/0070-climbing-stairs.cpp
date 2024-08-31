@@ -12,17 +12,29 @@ public:
     //     dp[n] = climbStairsMem(n - 1, dp) + climbStairsMem(n - 2, dp);
     //     return dp[n];
     // }
-    int climbStairsTab(int n) {
+    // int climbStairsTab(int n) {
+    //     if(n == 1 || n == 2) return n;
+    //     vector<int> dp(n + 1, 0);
+    //     dp[1] = 1;
+    //     dp[2] = 2;
+    //     for(int i = 3 ; i <= n ; i++){
+    //         dp[i] = dp[i - 1] + dp[i - 2];
+    //     }
+    //     return dp[n];
+    // }
+    int climbStairsTabSO(int n) {
         if(n == 1 || n == 2) return n;
-        vector<int> dp(n + 1, 0);
-        dp[1] = 1;
-        dp[2] = 2;
+        int prev = 1;
+        int next = 2;
+        int curr;
         for(int i = 3 ; i <= n ; i++){
-            dp[i] = dp[i - 1] + dp[i - 2];
+            curr = next + prev;
+            prev = next;
+            next = curr;
         }
-        return dp[n];
+        return curr;
     }
     int climbStairs(int n) {
-        return climbStairsTab(n);
+        return climbStairsTabSO(n);
     }
 };
