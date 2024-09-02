@@ -1,10 +1,12 @@
 class Solution {
 public:
     int gcd(int a, int b){
+        while(a > 0 && b > 0){
+            if(a > b) a = a % b;
+            else b = b % a;
+        }
         if(a == 0) return b;
-        if(b == 0) return a;
-        if(a > b) return gcd(a % b, b);
-        else return gcd(a, b % a);
+        return a;
     }
     string gcdOfStrings(string str1, string str2) {
         //check whether gcd exists or not
