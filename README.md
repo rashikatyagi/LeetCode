@@ -175,6 +175,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -289,6 +290,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0392-is-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Union Find
 |  |
@@ -336,6 +338,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Geometry
 |  |
 | ------- |
