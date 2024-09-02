@@ -24,18 +24,31 @@ public:
     //     }
     //     return dp[index] = (cost[index] + min(solveMem(cost, index + 1, dp), solveMem(cost, index + 2, dp)));
     // }
-    int solveTab(vector<int>& cost, int index){
+    // int solveTab(vector<int>& cost, int index){
+    //     int n = cost.size();
+    //     vector<int> dp(n, 0);
+    //     dp[n - 1] = cost[n - 1];
+    //     for(int i = n - 2 ; i >= 0 ; i--){
+    //         int temp = 0;
+    //         if(i + 2 < n) temp = dp[i + 2];
+    //         dp[i] = cost[i] + min(temp, dp[i + 1]);
+    //     }
+    //     return dp[index];
+    // }
+    int solveTabSO(vector<int>& cost, int index){
         int n = cost.size();
-        vector<int> dp(n, 0);
-        dp[n - 1] = cost[n - 1];
-        for(int i = n - 2 ; i >= 0 ; i--){
-            int temp = 0;
-            if(i + 2 < n) temp = dp[i + 2];
-            dp[i] = cost[i] + min(temp, dp[i + 1]);
+        int prev = cost[n - 1];
+        int next = 0;
+        int curr = cost[n - 1];
+
+        for(int i = n - 2 ; i >= index ; i--){
+            curr = cost[i] + min(prev, next);
+            next = prev;
+            prev = curr;
         }
-        return dp[index];
+        return curr;
     }
     int minCostClimbingStairs(vector<int>& cost) {
-        return min(solveTab(cost, 0), solveTab(cost, 1));
+        return min(solveTabSO(cost, 0), solveTabSO(cost, 1));
     }
 };
