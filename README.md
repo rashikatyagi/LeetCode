@@ -159,6 +159,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
@@ -173,6 +174,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -228,6 +230,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rashikatyagi/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0392-is-subsequence) |
