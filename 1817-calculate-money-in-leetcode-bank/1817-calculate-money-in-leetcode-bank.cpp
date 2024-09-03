@@ -1,20 +1,11 @@
 class Solution {
 public:
     int totalMoney(int n) {
-        int day = 0;
-        int start = 1;
-        int money = 0;
-        int bank = 0;
-        while(day < n){
-            if(day != 0 && day % 7 == 0){
-                bank += (++start);
-                money = start;
-            }
-            else{
-                bank += (++money);
-            }
-            day++;
-        }
-        return bank;
+        int weeks = n / 7;
+        int extra_days = n % 7;
+        int week_diff = max(0, weeks - 1);
+        int money = (28 * weeks) + (7 * ((week_diff) * (week_diff + 1)) / 2);
+        money += (weeks * extra_days) + ((extra_days * (extra_days + 1)) / 2);
+        return money;
     }
 };
