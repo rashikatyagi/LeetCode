@@ -48,25 +48,42 @@ public:
     //     }
     //     return dp[0][0];
     // }
-    int solveTabSO(vector<int>& nums){
-        int n = nums.size();
-        vector<int> prev(n + 1, 0);
-        vector<int> curr(n + 1, 0);
+    // int solveTabSO(vector<int>& nums){
+    //     int n = nums.size();
+    //     vector<int> prev(n + 1, 0);
+    //     vector<int> curr(n + 1, 0);
 
-        for(int currIndex = n - 1 ; currIndex >= 0 ; currIndex--){
-            for(int prevIndex = currIndex - 1 ; prevIndex >= -1 ; prevIndex--){
-                int ans1 = 0;
-                if(prevIndex == -1 || nums[currIndex] > nums[prevIndex]){
-                    ans1 = 1 + prev[currIndex + 1];
-                }
-                int ans2 = prev[prevIndex + 1];
-                curr[prevIndex + 1] = max(ans1, ans2);
+    //     for(int currIndex = n - 1 ; currIndex >= 0 ; currIndex--){
+    //         for(int prevIndex = currIndex - 1 ; prevIndex >= -1 ; prevIndex--){
+    //             int ans1 = 0;
+    //             if(prevIndex == -1 || nums[currIndex] > nums[prevIndex]){
+    //                 ans1 = 1 + prev[currIndex + 1];
+    //             }
+    //             int ans2 = prev[prevIndex + 1];
+    //             curr[prevIndex + 1] = max(ans1, ans2);
+    //         }
+    //         prev = curr;
+    //     }
+    //     return curr[0];
+    // }
+    int solveBinarySearch(vector<int>& nums){
+        int n = nums.size();
+        vector<int> ans;
+        ans.push_back(nums[0]);
+        for(int i = 1 ; i < n ; i++){
+            if(nums[i] > ans.back()){
+                ans.push_back(nums[i]);
             }
-            prev = curr;
+            else{
+                //get the index that have just greater element than the current element
+                int index = lower_bound(ans.begin(), ans.end(), nums[i]) - ans.begin();
+                ans[index] = nums[i];
+            }
         }
-        return curr[0];
+        return ans.size();
     }
+
     int lengthOfLIS(vector<int>& nums) {
-        return solveTabSO(nums);
+        return solveBinarySearch(nums);
     }
 };
