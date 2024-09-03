@@ -183,6 +183,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1146-greatest-common-divisor-of-strings](https://github.com/rashikatyagi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/rashikatyagi/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/rashikatyagi/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
