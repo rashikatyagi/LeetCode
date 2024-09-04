@@ -131,6 +131,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -346,6 +347,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 ## Linked List
 |  |
 | ------- |
