@@ -182,6 +182,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/rashikatyagi/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -295,6 +296,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rashikatyagi/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Matrix
