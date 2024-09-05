@@ -32,6 +32,24 @@ public:
         }
         return dp[start][end] = ans;
     }
+    int solveTab(vector<int>& arr, map< pair<int, int>, int > &mp){
+        int n = arr.size();
+        vector<vector<int> > dp(n + 1, vector<int>(n + 1, 0));
+        for(int start = n - 1 ; start >= 0 ; start--){
+            for(int end = 0 ; end < n ; end++){
+                if(start >= end){
+                    continue;
+                }
+                int ans = INT_MAX;
+                for(int i = start ; i < end ; i++){
+                    ans = min(ans, (mp[{start, i}] * mp[{i + 1, end}]) 
+                    + dp[start][i] + dp[i + 1][end]);
+                }
+                dp[start][end] = ans;
+            }
+        }
+        return dp[0][n - 1];
+    }
     int mctFromLeafValues(vector<int>& arr) {
         //storing maximum vales of all ranges as pre computation
         int n = arr.size();
@@ -42,7 +60,7 @@ public:
                 mp[{i, j}] = max(mp[{i, j - 1}], arr[j]);
             }
         }
-        vector<vector<int> > dp(n + 1, vector<int>(n + 1, -1));
-        return solveMem(arr, mp, 0, n - 1, dp);
+        //vector<vector<int> > dp(n + 1, vector<int>(n + 1, -1));
+        return solveTab(arr, mp);
     }
 };
