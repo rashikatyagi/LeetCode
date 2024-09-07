@@ -5,7 +5,8 @@ public:
         unordered_map<char, int> mp;
         int maxLength = 0;
         int index = 0;
-        for(int j = 0 ; j < n ; j++){
+        int j = 0;
+        while(j < n){
             if(mp.find(s[j]) == mp.end()){
                 maxLength = max(maxLength, j - index + 1);
                 mp[s[j]] = j;
@@ -15,6 +16,7 @@ public:
                 index = j + 1;
                 mp.clear();
             }
+            j++;
         }
         return maxLength;
     }
