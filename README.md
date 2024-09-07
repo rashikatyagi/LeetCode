@@ -165,6 +165,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rashikatyagi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rashikatyagi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -221,6 +222,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rashikatyagi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -248,6 +250,7 @@ https://leetcode.com/u/rashikatyagi/
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rashikatyagi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rashikatyagi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
