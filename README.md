@@ -112,6 +112,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashikatyagi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -130,6 +131,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashikatyagi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
@@ -299,6 +301,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashikatyagi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
