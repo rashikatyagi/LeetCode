@@ -315,6 +315,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/rashikatyagi/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
@@ -383,6 +384,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rashikatyagi/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Merge Sort
 |  |
 | ------- |
