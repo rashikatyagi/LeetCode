@@ -16,25 +16,42 @@ public:
     //     bool exclusion = solveRE(nums, index + 1, currsum, target);
     //     return inclusion || exclusion;
     // }
-    bool solveMEM(vector<int>& nums, int index, int currsum, int &target, vector<vector<int> > &dp){
+    // bool solveMEM(vector<int>& nums, int index, int currsum, int &target, vector<vector<int> > &dp){
+    //     int n = nums.size();
+    //     //base cases
+    //     if(currsum == target){
+    //         return true;
+    //     }
+    //     if(currsum > target){
+    //         return false;
+    //     }
+    //     if(index >= n){
+    //         return false;
+    //     }
+    //     if(dp[index][currsum] != -1){
+    //         return dp[index][currsum];
+    //     }
+    //     bool inclusion = solveMEM(nums, index + 1, currsum + nums[index], target, dp);
+    //     bool exclusion = solveMEM(nums, index + 1, currsum, target, dp);
+    //     dp[index][currsum] = inclusion || exclusion;
+    //     return dp[index][currsum];
+    // }
+    bool solveTAB(vector<int>& nums, int &target){
         int n = nums.size();
-        //base cases
-        if(currsum == target){
-            return true;
+        vector<vector<bool> > dp(n + 1, vector<bool>(target + 1, 0));
+        for(int i = 0 ; i <= n ; i++){
+            dp[i][target] = 1;
         }
-        if(currsum > target){
-            return false;
+        for(int index = n - 1 ; index >= 0 ; index--){
+            for(int currsum = target - 1 ; currsum >= 0 ; currsum--){
+                bool inclusion = 0;
+                if(currsum + nums[index] <= target)
+                    inclusion = dp[index + 1][currsum + nums[index]];
+                bool exclusion = dp[index + 1][currsum];
+                dp[index][currsum] = inclusion || exclusion;
+            }
         }
-        if(index >= n){
-            return false;
-        }
-        if(dp[index][currsum] != -1){
-            return dp[index][currsum];
-        }
-        bool inclusion = solveMEM(nums, index + 1, currsum + nums[index], target, dp);
-        bool exclusion = solveMEM(nums, index + 1, currsum, target, dp);
-        dp[index][currsum] = inclusion || exclusion;
-        return dp[index][currsum];
+        return dp[0][0];
     }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -50,7 +67,7 @@ public:
         else{
             target = totalsum / 2;
         }
-        vector<vector<int> > dp(n + 1, vector<int>(totalsum + 1, -1));
-        return solveMEM(nums, 0, 0, target, dp);
+        
+        return solveTAB(nums, target);
     }
 };
