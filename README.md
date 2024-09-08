@@ -132,6 +132,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rashikatyagi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rashikatyagi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
@@ -232,6 +233,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rashikatyagi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikatyagi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/rashikatyagi/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -291,6 +293,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rashikatyagi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
