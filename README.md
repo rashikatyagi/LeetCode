@@ -134,6 +134,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0004-median-of-two-sorted-arrays](https://github.com/rashikatyagi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rashikatyagi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/rashikatyagi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
@@ -171,6 +172,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashikatyagi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/rashikatyagi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rashikatyagi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
