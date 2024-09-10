@@ -127,6 +127,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rashikatyagi/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Array
 |  |
@@ -157,6 +158,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/rashikatyagi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1306-minimum-absolute-difference](https://github.com/rashikatyagi/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -232,6 +234,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashikatyagi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rashikatyagi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
@@ -430,5 +433,6 @@ https://leetcode.com/u/rashikatyagi/
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rashikatyagi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
