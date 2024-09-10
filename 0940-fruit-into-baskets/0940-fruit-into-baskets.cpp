@@ -7,15 +7,17 @@ public:
         int maxLength = 0;
         while(right < fruits.size()){
             mp[fruits[right]]++;
-            while(mp.size() > 2){
+            if(mp.size() > 2){
                 mp[fruits[left]]--;
                 if(mp[fruits[left]] == 0){
                     mp.erase(fruits[left]);
                 }
                 left++;
             }
-            len = right - left + 1;
-            maxLength = max(maxLength, len);
+            else{
+                len = right - left + 1;
+                maxLength = max(maxLength, len);
+            }
             right++;
         }
         return maxLength;
