@@ -200,6 +200,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/rashikatyagi/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rashikatyagi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -397,6 +398,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rashikatyagi/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0382-linked-list-random-node](https://github.com/rashikatyagi/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Merge Sort
 |  |
 | ------- |
@@ -439,4 +441,12 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rashikatyagi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/rashikatyagi/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/rashikatyagi/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
