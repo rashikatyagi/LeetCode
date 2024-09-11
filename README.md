@@ -180,6 +180,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0041-first-missing-positive](https://github.com/rashikatyagi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rashikatyagi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rashikatyagi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
@@ -239,6 +240,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashikatyagi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rashikatyagi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/rashikatyagi/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -282,6 +284,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/rashikatyagi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/rashikatyagi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
