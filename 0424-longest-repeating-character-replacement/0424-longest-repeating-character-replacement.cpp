@@ -15,7 +15,7 @@ public:
                 maxLength = max(maxLength, len);
             }
             else{
-                if(mp[s[left]] == maxFreq) maxFreq--;
+                // if(mp[s[left]] == maxFreq) maxFreq--;
                 mp[s[left]]--;
                 left++;
             }
