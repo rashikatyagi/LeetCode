@@ -151,6 +151,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0416-partition-equal-subset-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rashikatyagi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -183,6 +184,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0387-first-unique-character-in-a-string](https://github.com/rashikatyagi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rashikatyagi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rashikatyagi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -451,6 +453,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rashikatyagi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rashikatyagi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
