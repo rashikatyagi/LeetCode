@@ -217,6 +217,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/rashikatyagi/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rashikatyagi/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -377,6 +378,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rashikatyagi/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/rashikatyagi/LeetCode/tree/master/0198-house-robber) |
@@ -490,4 +492,8 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rashikatyagi/LeetCode/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rashikatyagi/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
