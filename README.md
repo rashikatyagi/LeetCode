@@ -156,6 +156,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0300-longest-increasing-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rashikatyagi/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/rashikatyagi/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/rashikatyagi/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -385,6 +386,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0354-russian-doll-envelopes](https://github.com/rashikatyagi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/rashikatyagi/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
