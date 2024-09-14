@@ -145,6 +145,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0041-first-missing-positive](https://github.com/rashikatyagi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rashikatyagi/LeetCode/tree/master/0198-house-robber) |
@@ -365,6 +366,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/rashikatyagi/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rashikatyagi/LeetCode/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -379,6 +381,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rashikatyagi/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/rashikatyagi/LeetCode/tree/master/0198-house-robber) |
