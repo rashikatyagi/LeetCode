@@ -22,26 +22,7 @@ public:
             int dist = q.front().second;
             q.pop();
             answer[frontRow][frontCol] = dist;
-            // //UP
-            // if(frontRow - 1 >= 0 && !visited[frontRow - 1][frontCol]){
-            //     visited[frontRow - 1][frontCol] = 1;
-            //     q.push({{frontRow - 1, frontCol}, dist + 1});
-            // }
-            // //DOWN
-            // if(frontRow + 1 < m && !visited[frontRow + 1][frontCol]){
-            //     visited[frontRow + 1][frontCol] = 1;
-            //     q.push({{frontRow + 1, frontCol}, dist + 1});
-            // }
-            // //LEFT
-            // if(frontCol - 1 >= 0 && !visited[frontRow][frontCol - 1]){
-            //     visited[frontRow][frontCol - 1] = 1;
-            //     q.push({{frontRow, frontCol - 1}, dist + 1});
-            // }
-            // //RIGHT
-            // if(frontCol + 1 < n && !visited[frontRow][frontCol + 1]){
-            //     visited[frontRow][frontCol + 1] = 1;
-            //     q.push({{frontRow, frontCol + 1}, dist + 1});
-            // }
+            
             for(int i = 0 ; i < 4 ; i++){
                 int newRow = frontRow + delrow[i];
                 int newCol = frontCol + delcol[i];
