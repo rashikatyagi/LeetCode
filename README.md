@@ -63,6 +63,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0904-leaf-similar-trees](https://github.com/rashikatyagi/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -118,6 +119,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/rashikatyagi/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
@@ -179,6 +181,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1019-squares-of-a-sorted-array](https://github.com/rashikatyagi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/rashikatyagi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1306-minimum-absolute-difference](https://github.com/rashikatyagi/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -379,6 +382,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/rashikatyagi/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -416,6 +420,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0200-number-of-islands](https://github.com/rashikatyagi/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rashikatyagi/LeetCode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
