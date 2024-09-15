@@ -176,6 +176,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/rashikatyagi/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/rashikatyagi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -380,6 +381,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0542-01-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rashikatyagi/LeetCode/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/rashikatyagi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -407,6 +409,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0516-longest-palindromic-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
