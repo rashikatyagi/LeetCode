@@ -49,13 +49,50 @@ public:
     //     }
     //     return dp[row][col + 1] = final_ans;
     // }
-    int solveTAB(vector<vector<int>>& matrix){
+    // int solveTAB(vector<vector<int>>& matrix){
+    //     int n = matrix.size();
+    //     vector<vector<int>> dp(n, vector<int>(n, 0));
+        
+    //     //base case -> last row remains same
+    //     for(int i = 0 ; i < n ; i++){
+    //         dp[n - 1][i] = matrix[n - 1][i];
+    //     }
+
+    //     for(int row = n - 2 ; row >= 0 ; row--){
+    //         for(int col = 0 ; col < n ; col++){
+    //             int final_ans = INT_MAX;
+
+    //             //DOWN
+    //             final_ans = min(final_ans, matrix[row][col] + dp[row + 1][col]);
+
+    //             //DIAGONAL LEFT
+    //             if(col - 1 >= 0){
+    //                 final_ans = min(final_ans, matrix[row][col] + dp[row + 1][col - 1]);
+    //             }
+
+    //             //DIAGONAL RIGHT
+    //             if(col + 1 < n){
+    //                 final_ans = min(final_ans, matrix[row][col] + dp[row + 1][col + 1]);
+    //             }
+
+    //             dp[row][col] = final_ans;
+    //         }
+    //     }
+    //     int answer = INT_MAX;
+    //     //checking the minimum answer from the top row ie the 0th row
+    //     for(int col = 0 ; col < n ; col++){
+    //         answer = min(answer, dp[0][col]);
+    //     }
+    //     return answer;
+    // }
+    int solveTAB_SO(vector<vector<int>>& matrix){
         int n = matrix.size();
-        vector<vector<int>> dp(n, vector<int>(n, 0));
+        vector<int> curr(n, 0);
+        vector<int> prev(n, 0);
         
         //base case -> last row remains same
         for(int i = 0 ; i < n ; i++){
-            dp[n - 1][i] = matrix[n - 1][i];
+            prev[i] = matrix[n - 1][i];
         }
 
         for(int row = n - 2 ; row >= 0 ; row--){
@@ -63,30 +100,31 @@ public:
                 int final_ans = INT_MAX;
 
                 //DOWN
-                final_ans = min(final_ans, matrix[row][col] + dp[row + 1][col]);
+                final_ans = min(final_ans, matrix[row][col] + prev[col]);
 
                 //DIAGONAL LEFT
                 if(col - 1 >= 0){
-                    final_ans = min(final_ans, matrix[row][col] + dp[row + 1][col - 1]);
+                    final_ans = min(final_ans, matrix[row][col] + prev[col - 1]);
                 }
 
                 //DIAGONAL RIGHT
                 if(col + 1 < n){
-                    final_ans = min(final_ans, matrix[row][col] + dp[row + 1][col + 1]);
+                    final_ans = min(final_ans, matrix[row][col] + prev[col + 1]);
                 }
 
-                dp[row][col] = final_ans;
+                curr[col] = final_ans;
             }
+            prev = curr;
         }
         int answer = INT_MAX;
         //checking the minimum answer from the top row ie the 0th row
         for(int col = 0 ; col < n ; col++){
-            answer = min(answer, dp[0][col]);
+            answer = min(answer, prev[col]);
         }
         return answer;
     }
     int minFallingPathSum(vector<vector<int>>& matrix) {
         // vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-        return solveTAB(matrix);
+        return solveTAB_SO(matrix);
     }
 };
