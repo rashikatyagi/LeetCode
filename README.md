@@ -153,6 +153,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rashikatyagi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/rashikatyagi/LeetCode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/rashikatyagi/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rashikatyagi/LeetCode/tree/master/0200-number-of-islands) |
@@ -397,6 +398,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rashikatyagi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/rashikatyagi/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
