@@ -323,6 +323,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0606-construct-string-from-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rashikatyagi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1170-shortest-common-supersequence](https://github.com/rashikatyagi/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rashikatyagi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rashikatyagi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -416,6 +417,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0747-min-cost-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/rashikatyagi/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/1250-longest-common-subsequence) |
