@@ -29,25 +29,46 @@ public:
     //     }
     //     return dp[index][buy] = profit;
     // }
+    // int solveTAB(vector<int>& prices, int n){
+    //     vector<vector<int> > dp(n, vector<int>(2, 0));
+    //     dp[n - 1][0] = prices[n - 1];
+
+    //     for(int index = n - 2 ; index >= 0 ; index--){
+    //         for(int buy = 0 ; buy <= 1 ; buy++){
+    //             int profit;
+    //             if(buy){ //can buy
+    //                 profit = max(-prices[index] + dp[index + 1][0], dp[index + 1][1]);
+    //             }
+    //             else{ //can sell
+    //                 profit = max(prices[index] + dp[index + 1][1], dp[index + 1][0]);
+    //             }
+
+    //             dp[index][buy] = profit;
+    //         }
+    //     }
+        
+    //     return dp[0][1];
+    // }
     int solveTAB(vector<int>& prices, int n){
-        vector<vector<int> > dp(n, vector<int>(2, 0));
-        dp[n - 1][0] = prices[n - 1];
+        vector<int> curr(2, 0);
+        vector<int> prev(2, 0);
+        prev[0] = prices[n - 1];
 
         for(int index = n - 2 ; index >= 0 ; index--){
             for(int buy = 0 ; buy <= 1 ; buy++){
                 int profit;
                 if(buy){ //can buy
-                    profit = max(-prices[index] + dp[index + 1][0], dp[index + 1][1]);
+                    profit = max(-prices[index] + prev[0], prev[1]);
                 }
                 else{ //can sell
-                    profit = max(prices[index] + dp[index + 1][1], dp[index + 1][0]);
+                    profit = max(prices[index] + prev[1], prev[0]);
                 }
 
-                dp[index][buy] = profit;
+                curr[buy] = profit;
             }
+            prev = curr;
         }
-        
-        return dp[0][1];
+        return prev[1];
     }
 
     int maxProfit(vector<int>& prices) {
