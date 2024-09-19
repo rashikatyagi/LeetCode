@@ -312,6 +312,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0008-string-to-integer-atoi](https://github.com/rashikatyagi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rashikatyagi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/rashikatyagi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rashikatyagi/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikatyagi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -352,6 +353,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rashikatyagi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/rashikatyagi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -373,6 +375,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/rashikatyagi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rashikatyagi/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/rashikatyagi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
@@ -398,6 +401,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rashikatyagi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/rashikatyagi/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0070-climbing-stairs) |
