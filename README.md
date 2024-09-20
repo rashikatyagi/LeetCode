@@ -178,6 +178,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0733-flood-fill](https://github.com/rashikatyagi/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0932-monotonic-array](https://github.com/rashikatyagi/LeetCode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/rashikatyagi/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0967-minimum-falling-path-sum) |
