@@ -6,21 +6,14 @@ public:
         }
         string s = countAndSay(N - 1);
         int len = s.length();
-        vector<int> fre(len, 1);
-        for(int i = 1 ; i < len ; i++){
-            if(s[i] == s[i - 1]){
-                fre[i] += fre[i - 1];
-            }
-        }
         string ans = "";
-        for(int i = 1 ; i < len ; i++){
-            if(s[i] != s[i - 1]){
-                ans += to_string(fre[i - 1]);
-                ans.push_back(s[i - 1]);
-            }
+        int i = 0, j = 0;
+        while(i < len && j < len){
+            while(j < len && s[i] == s[j]) j++;
+            ans += to_string(j - i);
+            ans.push_back(s[i]);
+            i = j;
         }
-        ans += to_string(fre[len - 1]);
-        ans.push_back(s[len - 1]);
         return ans;
     }
 };
