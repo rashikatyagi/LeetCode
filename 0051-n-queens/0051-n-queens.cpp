@@ -1,25 +1,5 @@
 class Solution {
 public:
-    // bool isSafe(int row, int col, vector<string> &board, int n){
-    //     int tempRow = row;
-    //     int tempCol = col;
-    //     // upper left diagonal check
-    //     while(row >= 0 && col >= 0){
-    //         if(board[row--][col--] == 'Q') return false;
-    //     }
-    //     row = tempRow;
-    //     col = tempCol;
-    //     //left direction check
-    //     while(col >= 0){
-    //         if(board[row][col--] == 'Q') return false;
-    //     }
-    //     col = tempCol;
-    //     // downwards left diagonal check
-    //     while(row < n && col >= 0){
-    //         if(board[row++][col--] == 'Q') return false;
-    //     }
-    //     return true;
-    // }
     void solve(int col, vector<string> &board, vector<vector<string>> &ans, int n,
     vector<int> &leftCheck, vector<int> &upperDia, vector<int> &lowerDia) {
         if(col == n){
