@@ -151,6 +151,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/rashikatyagi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rashikatyagi/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
@@ -468,6 +469,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rashikatyagi/LeetCode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
