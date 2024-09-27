@@ -337,6 +337,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rashikatyagi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/rashikatyagi/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -521,6 +522,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0966-binary-subarrays-with-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rashikatyagi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/rashikatyagi/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Reservoir Sampling
 |  |
 | ------- |
