@@ -137,6 +137,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0354-russian-doll-envelopes](https://github.com/rashikatyagi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0450-delete-node-in-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0729-my-calendar-i](https://github.com/rashikatyagi/LeetCode/tree/master/0729-my-calendar-i) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rashikatyagi/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -176,6 +177,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0560-subarray-sum-equals-k](https://github.com/rashikatyagi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0729-my-calendar-i](https://github.com/rashikatyagi/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/rashikatyagi/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/rashikatyagi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -448,6 +450,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/rashikatyagi/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -540,4 +543,12 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rashikatyagi/LeetCode/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rashikatyagi/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rashikatyagi/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
