@@ -202,6 +202,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rashikatyagi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/rashikatyagi/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -231,6 +232,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rashikatyagi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/rashikatyagi/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -531,6 +533,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0966-binary-subarrays-with-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rashikatyagi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1694-make-sum-divisible-by-p](https://github.com/rashikatyagi/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rashikatyagi/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Reservoir Sampling
 |  |
