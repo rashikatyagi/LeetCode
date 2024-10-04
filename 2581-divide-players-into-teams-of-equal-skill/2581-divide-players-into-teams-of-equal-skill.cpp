@@ -5,18 +5,35 @@ public:
         if(n == 2){
             return skill[0] * skill[1];
         }
-        sort(skill.begin(), skill.end());
-        long long int answer = 0;
-        long long int prev_sum = -1;
-        int start = 0;
-        int end = n - 1;
-        while(start < end){
-            if(prev_sum != -1 && skill[start] + skill[end] != prev_sum){
+        //total skill for each pair = (total skills) / (n / 2) ->number of teams
+        int total = accumulate(skill.begin(), skill.end(), 0);
+        int teamskill = 0;
+        if(total % (n / 2) != 0) return -1;
+        else{
+            teamskill = total / (n / 2);
+        }
+        // element-frequency mapping
+        unordered_map<int, int> mp;
+        for(int i = 0 ; i < n ; i++){
+            mp[skill[i]]++;
+        }
+
+        long long answer = 0;
+        for(int i = 0 ; i < n - 1 ; i++){
+            if(mp[skill[i]] < 1) continue;
+            int required = teamskill - skill[i];
+            if(mp.find(required) == mp.end() || mp[required] < 1){
                 return -1;
             }
-            prev_sum = skill[start] + skill[end];
-            answer += (skill[start] * skill[end]);
-            start++; end--;
+            else{
+                if(required == skill[i] && mp[required] <= 1) return -1;
+                else{
+                    answer += required * skill[i];
+                    mp[required]--;
+                    mp[skill[i]]--;
+                }
+            }
+            
         }
         return answer;
     }
