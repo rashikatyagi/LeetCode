@@ -324,6 +324,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0503-next-greater-element-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rashikatyagi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/rashikatyagi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -354,6 +355,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rashikatyagi/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/rashikatyagi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -422,6 +424,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/rashikatyagi/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/rashikatyagi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
