@@ -323,6 +323,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0145-binary-tree-postorder-traversal](https://github.com/rashikatyagi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/rashikatyagi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rashikatyagi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rashikatyagi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rashikatyagi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -348,6 +349,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rashikatyagi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rashikatyagi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/rashikatyagi/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -387,6 +389,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0621-task-scheduler](https://github.com/rashikatyagi/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rashikatyagi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
