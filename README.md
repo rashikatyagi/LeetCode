@@ -206,6 +206,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1694-make-sum-divisible-by-p](https://github.com/rashikatyagi/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rashikatyagi/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -237,6 +238,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rashikatyagi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rashikatyagi/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rashikatyagi/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rashikatyagi/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -490,6 +492,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rashikatyagi/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Data Stream
 |  |
