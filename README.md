@@ -211,6 +211,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rashikatyagi/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rashikatyagi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -399,6 +400,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rashikatyagi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rashikatyagi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -494,6 +496,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rashikatyagi/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rashikatyagi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Data Stream
 |  |
 | ------- |
