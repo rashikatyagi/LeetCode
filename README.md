@@ -359,6 +359,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1146-greatest-common-divisor-of-strings](https://github.com/rashikatyagi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/rashikatyagi/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rashikatyagi/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/rashikatyagi/LeetCode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rashikatyagi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rashikatyagi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -398,6 +399,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rashikatyagi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1304-longest-happy-string](https://github.com/rashikatyagi/LeetCode/tree/master/1304-longest-happy-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -497,6 +499,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/rashikatyagi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rashikatyagi/LeetCode/tree/master/1127-last-stone-weight) |
+| [1304-longest-happy-string](https://github.com/rashikatyagi/LeetCode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rashikatyagi/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rashikatyagi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
