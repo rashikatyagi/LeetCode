@@ -16,10 +16,7 @@ public:
         int len = temp.length();
         
         if(k == len + 1) return '1';
-        else{
-            char val = temp[(2 * len + 1) - k];
-            if(val == '1') return '0';
-            else return '1';
-        }
+        if(temp[(2 * len + 1) - k] == '1') return '0';
+        return '1';
     }
 };
