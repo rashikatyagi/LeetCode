@@ -387,6 +387,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rashikatyagi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rashikatyagi/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2580-circular-sentence](https://github.com/rashikatyagi/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rashikatyagi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/rashikatyagi/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
