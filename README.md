@@ -372,6 +372,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0567-permutation-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0778-reorganize-string](https://github.com/rashikatyagi/LeetCode/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/rashikatyagi/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rashikatyagi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rashikatyagi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/rashikatyagi/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -405,6 +406,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/rashikatyagi/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
