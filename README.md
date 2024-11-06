@@ -225,6 +225,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rashikatyagi/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rashikatyagi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3291-find-if-array-can-be-sorted](https://github.com/rashikatyagi/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -281,6 +282,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rashikatyagi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/rashikatyagi/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -303,6 +305,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rashikatyagi/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/rashikatyagi/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
 |  |
 | ------- |
