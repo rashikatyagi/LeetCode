@@ -155,6 +155,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
 | ------- |
@@ -227,6 +228,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rashikatyagi/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rashikatyagi/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rashikatyagi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rashikatyagi/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
@@ -281,6 +283,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/rashikatyagi/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rashikatyagi/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -442,6 +445,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rashikatyagi/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rashikatyagi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rashikatyagi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/rashikatyagi/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -634,4 +638,8 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/rashikatyagi/LeetCode/tree/master/0729-my-calendar-i) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
