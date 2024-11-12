@@ -14,6 +14,15 @@ public:
     }
     bool primeSubOperation(vector<int>& nums) {
         int n = nums.size();
+        if(n == 1) return true;
+        bool isSorted = true;
+        for(int i = 0 ; i < n - 1 ; i++){
+            if(nums[i] >= nums[i + 1]) {
+                isSorted = false;
+                break;
+            }
+        }
+        if(isSorted) return true;
         vector<bool> isPrime(1001, true);
         sieveOfEratothenes(isPrime);
         for(int i = n - 2 ; i >= 0 ; i--){
