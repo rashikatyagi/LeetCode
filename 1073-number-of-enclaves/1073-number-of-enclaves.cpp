@@ -1,55 +1,57 @@
 class Solution {
 public:
-    void dfs(int row, int col, vector<vector<int>>& grid, vector<vector<bool>> &visited){
+    void bfs(int row, int col, int m, int n, vector<vector<int>>& grid, vector<vector<bool>>& visited){
+        queue<pair<int, int>> q;
+        q.push({row, col});
         visited[row][col] = 1;
-        int delrow[] = {-1, 0, 1, 0};
-        int delcol[] = {0, 1, 0, -1};
-        int m = grid.size();
-        int n = grid[0].size();
-        for(int i = 0 ; i < 4 ; i++){
-            int newRow = row + delrow[i];
-            int newCol = col + delcol[i];
-            if(newRow >= 0 && newRow < m && newCol >= 0 && newCol < n && grid[newRow][newCol] && !visited[newRow][newCol]){
-                dfs(newRow, newCol, grid, visited);
+        while(!q.empty()){
+            int currRow = q.front().first;
+            int currCol = q.front().second;
+            q.pop();
+            if(currRow - 1 >= 0 && !visited[currRow - 1][currCol] && grid[currRow - 1][currCol]){
+                q.push({currRow - 1, currCol});
+                visited[currRow - 1][currCol] = 1;
+            }
+            if(currRow + 1 < m && !visited[currRow + 1][currCol] && grid[currRow + 1][currCol]){
+                q.push({currRow + 1, currCol});
+                visited[currRow + 1][currCol] = 1;
+            }
+            if(currCol - 1 >= 0 && !visited[currRow][currCol - 1] && grid[currRow][currCol - 1]){
+                q.push({currRow, currCol - 1});
+                visited[currRow][currCol - 1] = 1;
+            }
+            if(currCol + 1 < n && !visited[currRow][currCol + 1] && grid[currRow][currCol + 1]){
+                q.push({currRow, currCol + 1});
+                visited[currRow][currCol + 1] = 1;
             }
         }
     }
     int numEnclaves(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        //make a visited array
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
-        //check the first and last row for lands
-        for(int i = 0 ; i < n ; i++){
-            //first row
-            if(grid[0][i] == 1){
-                dfs(0, i, grid, visited);
+        vector<vector<bool>> visited(m, vector<bool> (n, 0));
+        for(int row = 0 ; row < m ; row++){
+            if(grid[row][0] == 1 && visited[row][0] == 0){
+                bfs(row, 0, m, n, grid, visited);
             }
-            //last row
-            if(grid[m - 1][i] == 1){
-                dfs(m - 1, i, grid, visited);
+            if(grid[row][n - 1] == 1 && visited[row][n - 1] == 0){
+                bfs(row, n - 1, m, n, grid, visited);
             }
         }
-        //check the first and last column for lands
-        for(int i = 0 ; i < m ; i++){
-            //first column
-            if(grid[i][0] == 1){
-                dfs(i, 0, grid, visited);
+        for(int col = 0 ; col < n ; col++){
+            if(grid[0][col] && visited[0][col] == 0){
+                bfs(0, col, m, n, grid, visited);
             }
-            //last column
-            if(grid[i][n - 1] == 1){
-                dfs(i, n - 1, grid, visited);
+            if(grid[m - 1][col] && visited[m - 1][col] == 0){
+                bfs(m - 1, col, m, n, grid, visited);
             }
         }
-        //check the non boundary element, if they are land and still not visited
-        int land_unvisited = 0;
-        for(int row = 1 ; row < m - 1 ; row++){
-            for(int col = 1 ; col < n - 1 ; col++){
-                if(grid[row][col] == 1 && !visited[row][col]){
-                    land_unvisited++;
-                }
+        int count = 0;
+        for(int row = 0 ; row < m ; row++){
+            for(int col = 0 ; col < n ; col++){
+                if(grid[row][col] == 1 && visited[row][col] == 0) count++;
             }
         }
-        return land_unvisited;
+        return count;
     }
 };
