@@ -34,6 +34,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rashikatyagi/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/rashikatyagi/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -70,6 +71,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0999-regions-cut-by-slashes](https://github.com/rashikatyagi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rashikatyagi/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/rashikatyagi/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -105,6 +107,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0975-range-sum-of-bst](https://github.com/rashikatyagi/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rashikatyagi/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/rashikatyagi/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -134,6 +137,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1035-cousins-in-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/rashikatyagi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rashikatyagi/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rashikatyagi/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/rashikatyagi/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
