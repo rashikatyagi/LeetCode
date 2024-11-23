@@ -294,6 +294,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/rashikatyagi/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rashikatyagi/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/rashikatyagi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/rashikatyagi/LeetCode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
@@ -480,6 +481,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1013-fibonacci-number](https://github.com/rashikatyagi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/rashikatyagi/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rashikatyagi/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/rashikatyagi/LeetCode/tree/master/2050-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
