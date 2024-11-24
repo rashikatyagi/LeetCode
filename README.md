@@ -371,6 +371,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1798-max-number-of-k-sum-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rashikatyagi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rashikatyagi/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rashikatyagi/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/rashikatyagi/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -388,6 +389,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rashikatyagi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rashikatyagi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rashikatyagi/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rashikatyagi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
@@ -594,6 +596,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0382-linked-list-random-node](https://github.com/rashikatyagi/LeetCode/tree/master/0382-linked-list-random-node) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rashikatyagi/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
