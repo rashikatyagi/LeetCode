@@ -36,11 +36,9 @@ public:
         }
         ListNode* new_head = slow;
         reverseLL(new_head);
-        int currsum = 0;
         int maxsum = INT_MIN;
         while(new_head != NULL){
-            currsum = head->val + new_head->val;
-            maxsum = max(maxsum, currsum);
+            maxsum = max(maxsum, head->val + new_head->val);
             head = head->next;
             new_head = new_head->next;
         }
