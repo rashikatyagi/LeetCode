@@ -245,6 +245,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1370-count-number-of-nice-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rashikatyagi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1582-design-browser-history](https://github.com/rashikatyagi/LeetCode/tree/master/1582-design-browser-history) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rashikatyagi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -402,6 +403,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1197-parsing-a-boolean-expression](https://github.com/rashikatyagi/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/rashikatyagi/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rashikatyagi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1582-design-browser-history](https://github.com/rashikatyagi/LeetCode/tree/master/1582-design-browser-history) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rashikatyagi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rashikatyagi/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rashikatyagi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -579,6 +581,7 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0729-my-calendar-i](https://github.com/rashikatyagi/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/rashikatyagi/LeetCode/tree/master/1582-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -598,6 +601,7 @@ https://leetcode.com/u/rashikatyagi/
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rashikatyagi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/rashikatyagi/LeetCode/tree/master/1582-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
@@ -611,6 +615,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0023-merge-k-sorted-lists](https://github.com/rashikatyagi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0382-linked-list-random-node](https://github.com/rashikatyagi/LeetCode/tree/master/0382-linked-list-random-node) |
+| [1582-design-browser-history](https://github.com/rashikatyagi/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rashikatyagi/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
@@ -697,4 +702,8 @@ https://leetcode.com/u/rashikatyagi/
 | ------- |
 | [0207-course-schedule](https://github.com/rashikatyagi/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0210-course-schedule-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/rashikatyagi/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
