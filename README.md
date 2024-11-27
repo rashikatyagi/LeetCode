@@ -158,6 +158,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rashikatyagi/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rashikatyagi/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -265,6 +266,7 @@ https://leetcode.com/u/rashikatyagi/
 | [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rashikatyagi/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rashikatyagi/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rashikatyagi/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -681,6 +683,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0210-course-schedule-ii](https://github.com/rashikatyagi/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/rashikatyagi/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/rashikatyagi/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rashikatyagi/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Combinatorics
 |  |
 | ------- |
