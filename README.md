@@ -198,6 +198,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0054-spiral-matrix](https://github.com/rashikatyagi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rashikatyagi/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rashikatyagi/LeetCode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rashikatyagi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rashikatyagi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashikatyagi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -325,6 +326,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rashikatyagi/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/rashikatyagi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rashikatyagi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/rashikatyagi/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -610,6 +612,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rashikatyagi/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/rashikatyagi/LeetCode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
