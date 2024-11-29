@@ -19,27 +19,28 @@ public:
     }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
         vector<int> bst1;
-        vector<int> bst2;
+        // vector<int> bst2;
         inorder(root1, bst1);
-        inorder(root2, bst2);
-        int n = bst1.size();
-        int m = bst2.size();
-        vector<int> ans;
-        int i = 0, j = 0;
-        while(i < n && j < m){
-            if(bst1[i] < bst2[j]) {
-                ans.push_back(bst1[i++]);
-            }
-            else {
-                ans.push_back(bst2[j++]);
-            }
-        }
-        while(i < n){
-            ans.push_back(bst1[i++]);
-        }
-        while(j < m){
-            ans.push_back(bst2[j++]);
-        }
-        return ans;
+        inorder(root2, bst1);
+        // int n = bst1.size();
+        // int m = bst2.size();
+        // vector<int> ans;
+        // int i = 0, j = 0;
+        // while(i < n && j < m){
+        //     if(bst1[i] < bst2[j]) {
+        //         ans.push_back(bst1[i++]);
+        //     }
+        //     else {
+        //         ans.push_back(bst2[j++]);
+        //     }
+        // }
+        // while(i < n){
+        //     ans.push_back(bst1[i++]);
+        // }
+        // while(j < m){
+        //     ans.push_back(bst2[j++]);
+        // }
+        sort(bst1.begin(), bst1.end());
+        return bst1;
     }
 };
