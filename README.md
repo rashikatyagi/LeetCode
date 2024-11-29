@@ -39,6 +39,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rashikatyagi/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/rashikatyagi/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/rashikatyagi/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rashikatyagi/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -82,6 +83,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rashikatyagi/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/rashikatyagi/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/rashikatyagi/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rashikatyagi/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -122,6 +124,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/rashikatyagi/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/rashikatyagi/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/rashikatyagi/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rashikatyagi/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rashikatyagi/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -182,6 +185,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1046-max-consecutive-ones-iii](https://github.com/rashikatyagi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rashikatyagi/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rashikatyagi/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/rashikatyagi/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rashikatyagi/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/rashikatyagi/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -348,6 +352,7 @@ https://leetcode.com/u/rashikatyagi/
 | [1256-rank-transform-of-an-array](https://github.com/rashikatyagi/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/rashikatyagi/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/rashikatyagi/LeetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/rashikatyagi/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rashikatyagi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rashikatyagi/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rashikatyagi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
