@@ -425,6 +425,7 @@ https://leetcode.com/u/rashikatyagi/
 | [0008-string-to-integer-atoi](https://github.com/rashikatyagi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rashikatyagi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rashikatyagi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/rashikatyagi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/rashikatyagi/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/rashikatyagi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/rashikatyagi/LeetCode/tree/master/0072-edit-distance) |
@@ -549,6 +550,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rashikatyagi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/rashikatyagi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/rashikatyagi/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -616,6 +618,7 @@ https://leetcode.com/u/rashikatyagi/
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rashikatyagi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rashikatyagi/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rashikatyagi/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rashikatyagi/LeetCode/tree/master/0051-n-queens) |
